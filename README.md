@@ -1,2 +1,2 @@
-# DotaDiscordBot
-A discord bot for helping player at picking heroes
+# dota-buff-scraper
+A project for scrapping Dota buff information using Scrapy 
